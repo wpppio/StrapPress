@@ -1,0 +1,17 @@
+{
+  "name": "wpppio/wp-press-press",
+  "description": "WP Press Press a starter theme using Twitter Bootstrap v4, Automattic's Underscores and Font Awesome. That's a pretty awesome combination. Use this as a parent theme, so that you create a pretty-chic child-theme from it.",
+  "license": "GPL-2.0-or-later",
+  "keywords": ["wordpress", "themes", "wordpress-themes", "wordpress-theme-underscores", "twitter-bootstrap-theme", "twitter-bootstrap", "wppp", "wpppio", "7php", "sevenphp"],
+  "authors": [
+    {
+      "name": "WP Plus Plus",
+      "email": "helpme@wppp.io",
+      "homepage": "https://wppp.io"
+    }
+  ],
+  "type": "wordpress-theme",
+  "require": {
+    "composer/installers": "~1.5"
+  }
+}
