@@ -1,9 +1,28 @@
-StrapPress - Bootstrap 4 WordPress Starter Theme
+WP Press Press - A Bootstrap 4 starter theme called WP Press Press
 ===
 
-StrapPress is _s with Bootstrap 4. 
+WP Press Press is _s with Bootstrap 4.
+It is a fork from the `braginteractive/StrapPress`.
 
-Here are some of the other more interesting things you'll find within this theme:
+## Why Fork?
+
+- I added composer support, so that wordpress dev who uses a composer approach to wordpress, can use this right out of the box.
+- I like to tag my projects, so this one will be properly tagged.
+- Corrected a couple of stuffs here and here.
+
+## Will this be compatible with StrapPress?
+
+- Yes, I will periodically pull from the upstream `braginteractive/StrapPress`.
+- I have kept the text-domain same as upstream.
+
+## Purpose of WP Press Press
+
+- Use **WP Press Press** as a parent wordpress theme, so that you derive a child theme.
+- A concrete example is my own website, [WP Plus Plus](https://wppp.io) which uses a child theme approach, with `WP Press Press` as the parent theme.
+
+## Notable features
+
+These are inherited straigh from the upstream `braginteractive/StrapPress`:
 
 * A just right amount of lean, well-commented, modern, HTML5 templates.
 * A helpful 404 template.
@@ -15,7 +34,12 @@ Here are some of the other more interesting things you'll find within this theme
 * Organized Sass files that include Bootstrap 4 and Font Awesome.
 * Licensed under GPLv2 or later. :) Use it to make something cool.
 
-Getting Started
----------------
 
-You can use StrapPress as a starter theme for a WordPress theme you are building or simply use the theme as is. 
+## Who To Contact If I have Questions?
+
+- Contact helpme@wppp.io
+- Alternatively, create a ticket in the issue tracker right here on this repo's issue tracker
+
+## Can I Suggest Changes?
+
+- Yes, please keep them coming though Pull Request. I look forward to your PRs..
