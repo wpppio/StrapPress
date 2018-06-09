@@ -13,7 +13,7 @@ A Bootstrap 4 starter theme called WP Press Press.
 
 == Description ==
 
-Hi. I'm a starter theme called WP Press Press, forked from StrapPress. I'm based off of _s and include Bootstrap 4 and Font Awesome.
+WP Press Press a starter theme using Twitter Bootstrap v4, Automattic's Underscores and Font Awesome. That's a pretty awesome combination. Use this as a parent theme, so that you create a pretty-chic child-theme from it.
 
 == Installation ==
 
@@ -24,10 +24,8 @@ Hi. I'm a starter theme called WP Press Press, forked from StrapPress. I'm based
 
 == Changelog ==
 
-= 1.1.0 - Jun 9 2018
-= 1.0.1 - Jun 9 2018
-= 1.0.0 - January 30 2017 =
-* Initial release
+= 1.1.0 - June 9 2018 | Composerified & fixes
+= 1.0.0 - January 30 2017 | initial release from fork
 
 == Credits ==
 
